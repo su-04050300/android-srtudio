@@ -209,7 +209,7 @@ class RoundTower(
    override val capacity = floors * 4
 
    /**
-    * Calculates the total floor area for a tower dwelling
+    * Calculates the total floor area for a tower dwelling 
     * with multiple stories.
     *
     * @return floor area
